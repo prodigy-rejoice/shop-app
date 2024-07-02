@@ -11,9 +11,8 @@ Also, items can be added to the list of checkout items and can be removed from t
 There is a button that navigates to an "Payment Successful" screen from the CheckoutScreen.
 setState and state lifting was used to handle state management and the flow of the app.
 Below are sceenshots of the app:
-![Screenshot_20240701-030050](https://github.com/rejoice-omotunwase/shop-app/assets/108352463/3e2d914e-6402-43a4-a0b1-9de5fe45c2f6)
-![Screenshot_20240701-030134](https://github.com/rejoice-omotunwase/shop-app/assets/108352463/7697516c-141f-490f-a0e9-92887e323454)
-![Screenshot_20240701-030126](https://github.com/rejoice-omotunwase/shop-app/assets/108352463/4c753b7a-1e45-4e39-9979-3cf2c74cbf80)
-![Screenshot_20240701-030120](https://github.com/rejoice-omotunwase/shop-app/assets/108352463/de9fbc37-be8d-47c5-8dd4-76e85df4351a)
-![Screenshot_20240701-030116](https://github.com/rejoice-omotunwase/shop-app/assets/108352463/0fc08ab1-5180-4544-abd2-2999b6d2f939)
-![Screenshot_20240701-030054](https://github.com/rejoice-omotunwase/shop-app/assets/108352463/d7662b63-81a2-4888-9292-c88bbec439b6)
+![Screenshot_20240702-125052](https://github.com/rejoice-omotunwase/shop-app/assets/108352463/a9a41b40-60bf-4ac2-bb3a-42ece1bc7334)
+![Screenshot_20240702-125042](https://github.com/rejoice-omotunwase/shop-app/assets/108352463/01665e5f-601a-4901-bb83-14cc9ece4107)
+![Screenshot_20240702-125121](https://github.com/rejoice-omotunwase/shop-app/assets/108352463/2db72f66-a0bb-4555-a14e-a5b41e7f23f0)
+![Screenshot_20240702-125115](https://github.com/rejoice-omotunwase/shop-app/assets/108352463/00f7c500-1d07-47a9-ad57-b02650dd2282)
+![Screenshot_20240702-125057](https://github.com/rejoice-omotunwase/shop-app/assets/108352463/55d60720-16e0-4897-8458-50fd8a1ad88b)
